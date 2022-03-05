@@ -73,7 +73,6 @@ export default function App() {
     <button className='cirlce'> </button>
     
     </div>
-    
     <div>
       <image src={image} alt='image' ></image>
     </div>
